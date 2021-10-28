@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "ENGINE DIAGNOSTIC",
+        "description": "Build and expand your repair service empire in this incredibly detailed and highly realistic simulation game, where attention to car detail is astonishing.",
+        "image": "https://i.ibb.co/hKFM42R/1.png",
+        "price": 2500
+    },
+    {
+        "id": 2,
+        "name": "WHEEL ALIGNMENT",
+        "description": "Build and expand your repair service empire in this incredibly detailed and highly realistic simulation game, where attention to car detail is astonishing.",
+        "image": "https://i.ibb.co/r5pM0Xr/7.png",
+        "price": 1500
+    },
+    {
+        "id": 3,
+        "name": "OIL CHANGING",
+        "description": "Build and expand your repair service empire in this incredibly detailed and highly realistic simulation game, where attention to car detail is astonishing.",
+        "image": "https://i.ibb.co/WGbqX4m/3.png",
+        "price": 2500
+    },
+    {
+        "id": 4,
+        "name": "BRAKE REPARING",
+        "description": "Build and expand your repair service empire in this incredibly detailed and highly realistic simulation game, where attention to car detail is astonishing.",
+        "image": "https://i.ibb.co/jfxmvn0/4.png",
+        "price": 3000
+    },
+    {
+        "id": 5,
+        "name": "WASH AND GLASSING",
+        "description": "Build and expand your repair service empire in this incredibly detailed and highly realistic simulation game, where attention to car detail is astonishing.",
+        "image": "https://i.ibb.co/gVfQ53F/5.png",
+        "price": 2000
+    },
+    {
+        "id": 6,
+        "name": "COMPLETE ANALYSIS",
+        "description": "Build and expand your repair service empire in this incredibly detailed and highly realistic simulation game, where attention to car detail is astonishing.",
+        "image": "https://i.ibb.co/VmsP2R8/2.png",
+        "price": 5000
+    }
+]
