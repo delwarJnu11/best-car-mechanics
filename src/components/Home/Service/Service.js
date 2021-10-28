@@ -3,6 +3,7 @@ import { Button, Card, Col } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
 const Service = ({ service }) => {
+    console.log(service)
     const { _id, name, image, price, description } = service;
     return (
         <Col>
